@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+
+venv/
+.env/
+
+
+.DS_Store
+Thumbs.db
+
+biblio-teca-4cc72-firebase-adminsdk-fbsvc-f29e68678b.json
+
+*.env
+
+.vscode/
+.idea/
